@@ -8,7 +8,7 @@ Most physical phenomena in real life are fundamentally nonlinear, which are clos
 
 ### Homotopy Analysis Method (HAM)
 
-The Homotopy Analysis Method is a semi-analytical technique to solve highly nonlinear problems. It provides a way to construct a homotopy, a continuous transformation from a simple problem to the original nonlinear problem. This method is versatile and can be applied to a wide range of nonlinear differential equations.
+The Homotopy Analysis Method is a semi-analytical technique to solve highly nonlinear problems. It provides a way to construct a homotopy, a continuous transformation from a simple problem to the original nonlinear problem. This method is versatile and can be applied to a wide range of nonlinear differential equations. Mathematica code for HAM is based on https://numericaltank.sjtu.edu.cn.
 
 ### Physics-Informed Neural Networks (PINN)
 
